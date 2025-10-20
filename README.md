@@ -1,2 +1,3 @@
-# Energy-Consumption-Analyzer
-Machine Learning project analyzing and forecasting energy usage trends using regression models.
+# Energy Consumption Analyzer
+
+Synthetic hourly energy dataset and starter analysis script.
