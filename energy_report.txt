@@ -1,0 +1,14 @@
+
+=============================================
+             ENERGY SUMMARY REPORT
+=============================================
+Reporting Period: 2025-10-01 00:00 to 2025-10-07 23:00
+
+Total Energy Consumed (Est.): 10,064.69 kWh
+Maximum Power Draw: 87.32 kW
+Average Power Draw: 59.91 kW
+Peak Power Time: 2025-10-02 18:00:00
+
+Maximum Occupancy Recorded: 80 people
+Average Temperature: 22.2 °C
+=============================================
